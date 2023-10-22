@@ -1,0 +1,48 @@
+
+.red-header {
+    color: red;
+  }
+  
+  .black-header {
+    color: black;
+  }
+
+
+.container {
+    background-image: url('images/gr.jpg'); /* Replace with your image path */
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 100px;
+    color: blue;
+  }
+
+
+
+.form-box {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    background: transparent;
+  }
+  
+ 
+  .counter {
+    text-align: center;
+    color: #fff;
+  }
+ 
+  .btn-group {
+   
+    justify-content: center;
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: rgba(248, 248, 248, 0.269);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+ 

@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import 'bootstrap/dist/css/bootstrap.css';
-import './App.css'; // Import your CSS file
+import './App.css'; 
 
 function Counter() {
   const [count, setCount] = useState(0);
