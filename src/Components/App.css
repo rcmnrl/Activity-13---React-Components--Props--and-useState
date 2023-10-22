@@ -9,11 +9,12 @@
 
 
 .container {
-    background-image: url('assets/gr.jpg'); /* Replace with your image path */
+    background-image: url('/src/Components/gr.jpg'); 
     background-size: cover;
     background-repeat: no-repeat;
     padding: 100px;
     color: blue;
+ 
   }
 
 
