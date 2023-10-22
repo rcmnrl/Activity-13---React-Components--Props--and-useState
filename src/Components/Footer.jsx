@@ -3,7 +3,16 @@
 import React from "react";
 
 function Footer({ copyright }) {
-  return <footer>{copyright}</footer>;
-}
+    return (
+      <footer className="footer">
+        <p>{copyright}</p>
+      </footer>
+    );
+  }
+  
+  export default Footer;
 
-export default Footer;
+  
+  
+  
+  

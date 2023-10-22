@@ -44,5 +44,32 @@
     border-radius: 5px;
     cursor: pointer;
   }
+
+
+
+  .h1 {
+    font-size: 24px;
+    color: #333;
+    margin-top: 20px;
+  }
   
- 
+  .h5 {
+    color: green;
+  }
+  
+
+  .h5.not-yet {
+    color: red;
+  }
+
+  .footer {
+    margin-top: 50px;
+    padding: 10px;
+    background-color: #333;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    background-color: #21081a;
+    width: 900px; /* Set the maximum width to your desired value */
+    height: 40px;
+    width: fit-content;
+  }

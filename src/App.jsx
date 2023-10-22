@@ -13,7 +13,8 @@ function App() {
         <Header title="Using React" count={count} />
         <Counter setCount={setCount} />
       </div>
-      <Footer copyright="© rcmnrl 2023" className="footer mt-3" />
+      <Footer copyright="© rcmnrl 2023" className="footer"  />
+      
     </div>
   );
 }
